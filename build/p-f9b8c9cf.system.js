@@ -1,0 +1,1 @@
+System.register(["./p-054f3e48.system.js"],function(){"use strict";var t,e;return{setters:[function(s){t=s.p;e=s.b}],execute:function(){t().then(function(t){return e([["p-saywwz0w.system",[[1,"github-card-selector",{login:[32]}],[1,"github-card",{login:[1],user:[32]}]]]],t)})}}});
