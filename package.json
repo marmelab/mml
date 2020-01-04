@@ -1,7 +1,8 @@
 {
-  "name": "aemml",
-  "version": "0.0.1",
-  "description": "Stencil Component Starter",
+  "name": "@adaept/aemml",
+  "version": "0.0.2",
+  "private": false,
+  "description": "adaept marmelab stencil integration test",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
   "es2015": "dist/esm/index.mjs",
@@ -9,7 +10,7 @@
   "types": "dist/types/index.d.ts",
   "collection": "dist/collection/collection-manifest.json",
   "collection:main": "dist/collection/index.js",
-  "unpkg": "dist/mml/mml.js",
+  "unpkg": "dist/aemml/aemml.js",
   "files": [
     "dist/",
     "loader/"
