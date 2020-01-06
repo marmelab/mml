@@ -5,7 +5,7 @@ import { Component, Host, h, State } from "@stencil/core";
   styleUrl: "github-card-selector.css",
   shadow: true
 })
-export class GithubSelector {
+export class GithubCardSelector {
   @State() login: string;
 
   handleLoginChange(e: UIEvent) {
